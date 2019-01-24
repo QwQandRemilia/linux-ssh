@@ -1,3 +1,6 @@
-*linux记录日志*
+*linux记录日志/备忘录*
 
-设置
+irssi命令:
+/connect chat.freenode.net 
+/join #聊天室
+/wc   离开聊天室
