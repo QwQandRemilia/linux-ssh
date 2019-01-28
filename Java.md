@@ -13,3 +13,8 @@ Java多态:一个类的多种状态</br>
 Java抽象类:抽象类可以被继承  关键词:abstract</br>
 Java接口:接口不能有主体,不能实例化,一个类可以有多个接口,接口可以有变量,不能用private protected修饰 关键词:interface</br>
 Java继承接口: 关键词:implements</br>
+
+
+关键字/修饰符:<br/>
+final:用final修饰的变量不可被修改并且必须初始化,方法不可被重写,类不可被继承.<br/>
+equals:比较字符串内容是否相等<br/>
